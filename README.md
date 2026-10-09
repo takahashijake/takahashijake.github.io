@@ -37,7 +37,7 @@ The PR alone does **not** deploy the site. Do not claim a successful deployment 
 
 Project descriptions are intentionally qualitative and grounded in inspected public `main` source, documentation, tests, and commit-specific CI runs for [LLM-Town](https://github.com/takahashijake/LLM-Town), [BenchForge](https://github.com/takahashijake/BenchmarkingProject), [AgentBench](https://github.com/takahashijake/AgentBench), [MiniGame](https://github.com/takahashijake/MiniGame), and [GestureDetectionPractice](https://github.com/takahashijake/GestureDetectionPractice). No fabricated benchmark scores, employment history, email address, LinkedIn identity, or live-demo links.
 
-Evidence reviewed October 8, 2026: GestureDetectionPractice `2c40ce0` (PRs #2/#3 merged), AgentBench `9d3280c` (privacy fix #37 and progress #40 open), and MiniGame `d643a1d` (persistence/replay PR #4 open). Case-study links pin source evidence to the inspected commit and CI run. Passing CI is scoped to its actual checks; it does not establish real-agent performance, real-camera accuracy, or graphical browser/offline behavior.
+Evidence reviewed October 9, 2026: GestureDetectionPractice `2c40ce0` (PRs #2/#3 merged), AgentBench `9d3280c` (privacy fix #37 and progress #40 open), and MiniGame `d643a1d` (persistence/replay PR #4 open). AgentBench progress PR #40 CI passes at `457bcf4` (run `37713880440`); MiniGame PR #4 CI passes at `9d9b231` (run `37493870041`). Both remain unmerged. Case-study links pin source evidence to the inspected commit and CI run. Passing CI is scoped to its actual checks; it does not establish real-agent performance, real-camera accuracy, or graphical browser/offline behavior.
 
 ## Maintenance
 
